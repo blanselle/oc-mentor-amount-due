@@ -12,7 +12,7 @@
 (async function() {
     'use strict';
 
-    const autoFinancedStudents = ["Abderrazzak Bourmou", "Donovan Keribin", "Kenny Rotger"];
+    const autoFinancedStudents = ["Firstname1 Lastname1", "Firstname2 Lastname2", "Firstname3 Lastname3"];
 
     function getSessionsAmount(sessions) {
         var total = 0;
