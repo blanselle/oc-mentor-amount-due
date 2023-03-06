@@ -1,10 +1,10 @@
-#Openclassrooms: Amount Due
+# Openclassrooms: Amount Due for mentor dashboard
 
-These are some common Modern Tribe Tampermonkey scripts. Tampermonkey is only available 
+You want to know your current/previous month amount due as openclassrooms mentor? This pluggin is for you!
 
 ## Installation
 
-- Install Tampermonkey
-- Open Tampermonkey in your browser and click the Add Script tab (icon with a plus symbol)
+- Install Tampermonkey (chrome)
+- Open Tampermonkey in your browser and click on "Create a new Script..." menu
 - Past oc-amount-due.js and save
-- Reload your mentor dashboard on openclassrooms and expand burger menu!
+- Reload your mentor dashboard on openclassrooms and expand burger menu (can takes a few seconds to appear)!
